@@ -1,0 +1,36 @@
+C:\Users\egonzalez6279\Documents\cambio de moneda\cambio de moneda\bin\Debug\cambio de moneda.exe.config
+C:\Users\egonzalez6279\Documents\cambio de moneda\cambio de moneda\bin\Debug\cambio de moneda.exe
+C:\Users\egonzalez6279\Documents\cambio de moneda\cambio de moneda\bin\Debug\cambio de moneda.pdb
+C:\Users\egonzalez6279\Documents\cambio de moneda\cambio de moneda\bin\Debug\cambio de moneda.xml
+C:\Users\egonzalez6279\Documents\cambio de moneda\cambio de moneda\obj\Debug\cambio de moneda.vbprojResolveAssemblyReference.cache
+C:\Users\egonzalez6279\Documents\cambio de moneda\cambio de moneda\obj\Debug\cambio_de_moneda.Form1.resources
+C:\Users\egonzalez6279\Documents\cambio de moneda\cambio de moneda\obj\Debug\cambio_de_moneda.Resources.resources
+C:\Users\egonzalez6279\Documents\cambio de moneda\cambio de moneda\obj\Debug\cambio de moneda.vbproj.GenerateResource.Cache
+C:\Users\egonzalez6279\Documents\cambio de moneda\cambio de moneda\obj\Debug\cambio de moneda.vbproj.CoreCompileInputs.cache
+C:\Users\egonzalez6279\Documents\cambio de moneda\cambio de moneda\obj\Debug\cambio de moneda.exe
+C:\Users\egonzalez6279\Documents\cambio de moneda\cambio de moneda\obj\Debug\cambio de moneda.xml
+C:\Users\egonzalez6279\Documents\cambio de moneda\cambio de moneda\obj\Debug\cambio de moneda.pdb
+E:\uni\enero-mayo 2020\Visual Computing\cambio de moneda\cambio de moneda\bin\Debug\cambio de moneda.exe.config
+E:\uni\enero-mayo 2020\Visual Computing\cambio de moneda\cambio de moneda\bin\Debug\cambio de moneda.exe
+E:\uni\enero-mayo 2020\Visual Computing\cambio de moneda\cambio de moneda\bin\Debug\cambio de moneda.pdb
+E:\uni\enero-mayo 2020\Visual Computing\cambio de moneda\cambio de moneda\bin\Debug\cambio de moneda.xml
+E:\uni\enero-mayo 2020\Visual Computing\cambio de moneda\cambio de moneda\obj\Debug\cambio de moneda.vbprojResolveAssemblyReference.cache
+E:\uni\enero-mayo 2020\Visual Computing\cambio de moneda\cambio de moneda\obj\Debug\cambio_de_moneda.Form1.resources
+E:\uni\enero-mayo 2020\Visual Computing\cambio de moneda\cambio de moneda\obj\Debug\cambio_de_moneda.Resources.resources
+E:\uni\enero-mayo 2020\Visual Computing\cambio de moneda\cambio de moneda\obj\Debug\cambio de moneda.vbproj.GenerateResource.Cache
+E:\uni\enero-mayo 2020\Visual Computing\cambio de moneda\cambio de moneda\obj\Debug\cambio de moneda.vbproj.CoreCompileInputs.cache
+E:\uni\enero-mayo 2020\Visual Computing\cambio de moneda\cambio de moneda\obj\Debug\cambio de moneda.exe
+E:\uni\enero-mayo 2020\Visual Computing\cambio de moneda\cambio de moneda\obj\Debug\cambio de moneda.xml
+E:\uni\enero-mayo 2020\Visual Computing\cambio de moneda\cambio de moneda\obj\Debug\cambio de moneda.pdb
+C:\Users\Edgar Gonzalez\Desktop\Portafolio\Computacion Visual\Practicas\cambio de moneda\cambio de moneda\bin\Debug\cambio de moneda.exe.config
+C:\Users\Edgar Gonzalez\Desktop\Portafolio\Computacion Visual\Practicas\cambio de moneda\cambio de moneda\bin\Debug\cambio de moneda.exe
+C:\Users\Edgar Gonzalez\Desktop\Portafolio\Computacion Visual\Practicas\cambio de moneda\cambio de moneda\bin\Debug\cambio de moneda.pdb
+C:\Users\Edgar Gonzalez\Desktop\Portafolio\Computacion Visual\Practicas\cambio de moneda\cambio de moneda\bin\Debug\cambio de moneda.xml
+C:\Users\Edgar Gonzalez\Desktop\Portafolio\Computacion Visual\Practicas\cambio de moneda\cambio de moneda\obj\Debug\cambio de moneda.vbprojAssemblyReference.cache
+C:\Users\Edgar Gonzalez\Desktop\Portafolio\Computacion Visual\Practicas\cambio de moneda\cambio de moneda\obj\Debug\cambio_de_moneda.Form1.resources
+C:\Users\Edgar Gonzalez\Desktop\Portafolio\Computacion Visual\Practicas\cambio de moneda\cambio de moneda\obj\Debug\cambio_de_moneda.Resources.resources
+C:\Users\Edgar Gonzalez\Desktop\Portafolio\Computacion Visual\Practicas\cambio de moneda\cambio de moneda\obj\Debug\cambio de moneda.vbproj.GenerateResource.cache
+C:\Users\Edgar Gonzalez\Desktop\Portafolio\Computacion Visual\Practicas\cambio de moneda\cambio de moneda\obj\Debug\cambio de moneda.vbproj.CoreCompileInputs.cache
+C:\Users\Edgar Gonzalez\Desktop\Portafolio\Computacion Visual\Practicas\cambio de moneda\cambio de moneda\obj\Debug\cambio de moneda.exe
+C:\Users\Edgar Gonzalez\Desktop\Portafolio\Computacion Visual\Practicas\cambio de moneda\cambio de moneda\obj\Debug\cambio de moneda.xml
+C:\Users\Edgar Gonzalez\Desktop\Portafolio\Computacion Visual\Practicas\cambio de moneda\cambio de moneda\obj\Debug\cambio de moneda.pdb
