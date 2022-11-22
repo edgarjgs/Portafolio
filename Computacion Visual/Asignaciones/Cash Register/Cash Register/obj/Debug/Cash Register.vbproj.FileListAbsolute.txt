@@ -1,0 +1,24 @@
+E:\uni\enero-mayo 2020\Visual Computing\Cash Register\Cash Register\bin\Debug\Cash Register.exe.config
+E:\uni\enero-mayo 2020\Visual Computing\Cash Register\Cash Register\bin\Debug\Cash Register.exe
+E:\uni\enero-mayo 2020\Visual Computing\Cash Register\Cash Register\bin\Debug\Cash Register.pdb
+E:\uni\enero-mayo 2020\Visual Computing\Cash Register\Cash Register\bin\Debug\Cash Register.xml
+E:\uni\enero-mayo 2020\Visual Computing\Cash Register\Cash Register\obj\Debug\Cash_Register.Form1.resources
+E:\uni\enero-mayo 2020\Visual Computing\Cash Register\Cash Register\obj\Debug\Cash_Register.Resources.resources
+E:\uni\enero-mayo 2020\Visual Computing\Cash Register\Cash Register\obj\Debug\Cash Register.vbproj.GenerateResource.Cache
+E:\uni\enero-mayo 2020\Visual Computing\Cash Register\Cash Register\obj\Debug\Cash Register.vbproj.CoreCompileInputs.cache
+E:\uni\enero-mayo 2020\Visual Computing\Cash Register\Cash Register\obj\Debug\Cash Register.exe
+E:\uni\enero-mayo 2020\Visual Computing\Cash Register\Cash Register\obj\Debug\Cash Register.xml
+E:\uni\enero-mayo 2020\Visual Computing\Cash Register\Cash Register\obj\Debug\Cash Register.pdb
+E:\uni\enero-mayo 2020\Visual Computing\Cash Register\Cash Register\obj\Debug\Cash Register.vbprojAssemblyReference.cache
+C:\Users\Edgar Gonzalez\Desktop\Portafolio\Computacion Visual\Asignaciones\Cash Register\Cash Register\bin\Debug\Cash Register.exe.config
+C:\Users\Edgar Gonzalez\Desktop\Portafolio\Computacion Visual\Asignaciones\Cash Register\Cash Register\bin\Debug\Cash Register.exe
+C:\Users\Edgar Gonzalez\Desktop\Portafolio\Computacion Visual\Asignaciones\Cash Register\Cash Register\bin\Debug\Cash Register.pdb
+C:\Users\Edgar Gonzalez\Desktop\Portafolio\Computacion Visual\Asignaciones\Cash Register\Cash Register\bin\Debug\Cash Register.xml
+C:\Users\Edgar Gonzalez\Desktop\Portafolio\Computacion Visual\Asignaciones\Cash Register\Cash Register\obj\Debug\Cash Register.vbprojAssemblyReference.cache
+C:\Users\Edgar Gonzalez\Desktop\Portafolio\Computacion Visual\Asignaciones\Cash Register\Cash Register\obj\Debug\Cash_Register.Form1.resources
+C:\Users\Edgar Gonzalez\Desktop\Portafolio\Computacion Visual\Asignaciones\Cash Register\Cash Register\obj\Debug\Cash_Register.Resources.resources
+C:\Users\Edgar Gonzalez\Desktop\Portafolio\Computacion Visual\Asignaciones\Cash Register\Cash Register\obj\Debug\Cash Register.vbproj.GenerateResource.cache
+C:\Users\Edgar Gonzalez\Desktop\Portafolio\Computacion Visual\Asignaciones\Cash Register\Cash Register\obj\Debug\Cash Register.vbproj.CoreCompileInputs.cache
+C:\Users\Edgar Gonzalez\Desktop\Portafolio\Computacion Visual\Asignaciones\Cash Register\Cash Register\obj\Debug\Cash Register.exe
+C:\Users\Edgar Gonzalez\Desktop\Portafolio\Computacion Visual\Asignaciones\Cash Register\Cash Register\obj\Debug\Cash Register.xml
+C:\Users\Edgar Gonzalez\Desktop\Portafolio\Computacion Visual\Asignaciones\Cash Register\Cash Register\obj\Debug\Cash Register.pdb
