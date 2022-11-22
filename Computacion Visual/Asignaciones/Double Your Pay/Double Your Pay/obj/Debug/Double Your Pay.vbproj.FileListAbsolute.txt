@@ -1,0 +1,36 @@
+F:\uni\enero-mayo 2020\Visual Computing\Double Your Pay\Double Your Pay\obj\Debug\Double Your Pay.vbprojAssemblyReference.cache
+F:\uni\enero-mayo 2020\Visual Computing\Double Your Pay\Double Your Pay\obj\Debug\Double_Your_Pay.Form1.resources
+F:\uni\enero-mayo 2020\Visual Computing\Double Your Pay\Double Your Pay\obj\Debug\Double_Your_Pay.Resources.resources
+F:\uni\enero-mayo 2020\Visual Computing\Double Your Pay\Double Your Pay\obj\Debug\Double Your Pay.vbproj.GenerateResource.cache
+F:\uni\enero-mayo 2020\Visual Computing\Double Your Pay\Double Your Pay\obj\Debug\Double Your Pay.vbproj.CoreCompileInputs.cache
+F:\uni\enero-mayo 2020\Visual Computing\Double Your Pay\Double Your Pay\bin\Debug\Double Your Pay.exe.config
+F:\uni\enero-mayo 2020\Visual Computing\Double Your Pay\Double Your Pay\bin\Debug\Double Your Pay.exe
+F:\uni\enero-mayo 2020\Visual Computing\Double Your Pay\Double Your Pay\bin\Debug\Double Your Pay.pdb
+F:\uni\enero-mayo 2020\Visual Computing\Double Your Pay\Double Your Pay\bin\Debug\Double Your Pay.xml
+F:\uni\enero-mayo 2020\Visual Computing\Double Your Pay\Double Your Pay\obj\Debug\Double Your Pay.exe
+F:\uni\enero-mayo 2020\Visual Computing\Double Your Pay\Double Your Pay\obj\Debug\Double Your Pay.xml
+F:\uni\enero-mayo 2020\Visual Computing\Double Your Pay\Double Your Pay\obj\Debug\Double Your Pay.pdb
+G:\uni\enero-mayo 2020\Visual Computing\asig\Double Your Pay\Double Your Pay\bin\Debug\Double Your Pay.exe.config
+G:\uni\enero-mayo 2020\Visual Computing\asig\Double Your Pay\Double Your Pay\bin\Debug\Double Your Pay.exe
+G:\uni\enero-mayo 2020\Visual Computing\asig\Double Your Pay\Double Your Pay\bin\Debug\Double Your Pay.pdb
+G:\uni\enero-mayo 2020\Visual Computing\asig\Double Your Pay\Double Your Pay\bin\Debug\Double Your Pay.xml
+G:\uni\enero-mayo 2020\Visual Computing\asig\Double Your Pay\Double Your Pay\obj\Debug\Double_Your_Pay.Form1.resources
+G:\uni\enero-mayo 2020\Visual Computing\asig\Double Your Pay\Double Your Pay\obj\Debug\Double_Your_Pay.Resources.resources
+G:\uni\enero-mayo 2020\Visual Computing\asig\Double Your Pay\Double Your Pay\obj\Debug\Double Your Pay.vbproj.GenerateResource.cache
+G:\uni\enero-mayo 2020\Visual Computing\asig\Double Your Pay\Double Your Pay\obj\Debug\Double Your Pay.vbproj.CoreCompileInputs.cache
+G:\uni\enero-mayo 2020\Visual Computing\asig\Double Your Pay\Double Your Pay\obj\Debug\Double Your Pay.exe
+G:\uni\enero-mayo 2020\Visual Computing\asig\Double Your Pay\Double Your Pay\obj\Debug\Double Your Pay.xml
+G:\uni\enero-mayo 2020\Visual Computing\asig\Double Your Pay\Double Your Pay\obj\Debug\Double Your Pay.pdb
+G:\uni\enero-mayo 2020\Visual Computing\asig\Double Your Pay\Double Your Pay\obj\Debug\Double Your Pay.vbprojAssemblyReference.cache
+C:\Users\Edgar Gonzalez\Desktop\Portafolio\Computacion Visual\Asignaciones\Double Your Pay\Double Your Pay\bin\Debug\Double Your Pay.exe.config
+C:\Users\Edgar Gonzalez\Desktop\Portafolio\Computacion Visual\Asignaciones\Double Your Pay\Double Your Pay\bin\Debug\Double Your Pay.exe
+C:\Users\Edgar Gonzalez\Desktop\Portafolio\Computacion Visual\Asignaciones\Double Your Pay\Double Your Pay\bin\Debug\Double Your Pay.pdb
+C:\Users\Edgar Gonzalez\Desktop\Portafolio\Computacion Visual\Asignaciones\Double Your Pay\Double Your Pay\bin\Debug\Double Your Pay.xml
+C:\Users\Edgar Gonzalez\Desktop\Portafolio\Computacion Visual\Asignaciones\Double Your Pay\Double Your Pay\obj\Debug\Double Your Pay.vbprojAssemblyReference.cache
+C:\Users\Edgar Gonzalez\Desktop\Portafolio\Computacion Visual\Asignaciones\Double Your Pay\Double Your Pay\obj\Debug\Double_Your_Pay.Form1.resources
+C:\Users\Edgar Gonzalez\Desktop\Portafolio\Computacion Visual\Asignaciones\Double Your Pay\Double Your Pay\obj\Debug\Double_Your_Pay.Resources.resources
+C:\Users\Edgar Gonzalez\Desktop\Portafolio\Computacion Visual\Asignaciones\Double Your Pay\Double Your Pay\obj\Debug\Double Your Pay.vbproj.GenerateResource.cache
+C:\Users\Edgar Gonzalez\Desktop\Portafolio\Computacion Visual\Asignaciones\Double Your Pay\Double Your Pay\obj\Debug\Double Your Pay.vbproj.CoreCompileInputs.cache
+C:\Users\Edgar Gonzalez\Desktop\Portafolio\Computacion Visual\Asignaciones\Double Your Pay\Double Your Pay\obj\Debug\Double Your Pay.exe
+C:\Users\Edgar Gonzalez\Desktop\Portafolio\Computacion Visual\Asignaciones\Double Your Pay\Double Your Pay\obj\Debug\Double Your Pay.xml
+C:\Users\Edgar Gonzalez\Desktop\Portafolio\Computacion Visual\Asignaciones\Double Your Pay\Double Your Pay\obj\Debug\Double Your Pay.pdb
