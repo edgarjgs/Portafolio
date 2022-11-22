@@ -1,0 +1,80 @@
+body {
+    background: url(images/movietheme.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+h1 {
+    font-variant: small-caps;
+    background-color: black;
+    color: white;
+    font-family: "Trebuchet MS";
+    margin-bottom: 0px;
+}
+img {
+    width: 200px;
+    height: auto;
+}
+table {
+    border: 1px dotted gray;
+    margin: 0px 20px;
+    background-color: #eef;
+}
+td, th {
+    border: 0px;
+    padding: 5px 10px;
+}
+th {
+    font-family: Tahoma;
+    text-align: left;
+    background-color: gray;
+    text-shadow: 2px 2px black;
+    color: white;
+}
+a:link, a:visited {
+    font-family: Verdana;
+    color: #191957;
+    text-decoration: none;
+}
+a:hover, a:active {
+    font-family: Verdana;
+    color: #571919;
+    font-weight: bolder;
+}
+#content {
+    margin: 5% 10%;
+    background-color: white;
+    font-family: Garamound;
+    opacity: 0.95;
+}
+#header {
+    font-family: arial;
+    padding: 5px 20px;
+    text-align: justify;
+    background: linear-gradient(to left, #eeeeff, gray);
+}
+.topOfPage {
+    margin-left: 20px;
+}
+ul.menu {
+    background: black;
+    border: 1px solid #7C7C7C;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+ul.menu li {
+    float: left;
+    width: 20%;
+}
+ul.menu li a {
+    border-left: 1px solid #FFF;
+    border-right: 1px solid #7C7C7C;
+    color: white;
+    display: block;
+    padding: .3em;
+    text-decoration: none;
+    font-size: x-small;
+}

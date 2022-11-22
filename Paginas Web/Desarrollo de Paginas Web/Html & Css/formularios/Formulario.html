@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+   <head>
+      <meta charset="utf-8">
+      <title>formulario</title>
+      <link href="form.css" type="text/css" rel="stylesheet" >
+   </head>
+   <body>
+      <h1>Información sobre el producto</h1>
+      <form action="form.php" method="post">
+         <fieldset>
+            <legend>Datos Básicos</legend>
+            <label	for="nombre">Nombre</label>	<br/>  
+            <input type="text"  id="nombre" size="54"	maxlength="9"> <br>
+            <label	for="descripcion">Descripción</label>	<br/>
+            <textarea id="descripcion"	name="descripcion"	cols="55"	rows="5" style="margin: 0px; width: 404px; height: 72px;"></textarea>
+            <br> <br>
+            Foto <input type="file" >
+            <br> <br>
+            <input type="checkbox" name="counter" > Añadir contador de visitas 
+         </fieldset>
+         <br><br>
+         <fieldset>
+            <legend>Datos Económicos</legend>
+            Precio <input type="test">        
+            <label	for="so">&nbsp;&nbsp;Impuestos</label>
+            <select	id="so"	name="so">
+               <option	value=""	selected="selected">-	selecciona	-</option>
+               <option	value="4">4%</option>
+               <option	value="7">7%</option>
+               <option	value="16">16%</option>
+               <option	value="25">25%</option>
+            </select>
+            <br><br><br>
+            <label for="radio">Promoción</label> <br>
+            <input type="radio" name="radio" value="none">Ninguno <br>
+            <input type="radio" name="radio" value="free">Transporte Gratuito <br>
+            <input type="radio" name="radio" value="discount">Descuento 5% <br>
+         </fieldset>
+      </form>
+   </body>
+</html>
