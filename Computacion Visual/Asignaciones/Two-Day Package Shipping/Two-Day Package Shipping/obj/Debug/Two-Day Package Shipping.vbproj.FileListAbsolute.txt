@@ -1,0 +1,36 @@
+E:\uni\enero-mayo 2020\Visual Computing\Two-Day Package Shipping\Two-Day Package Shipping\bin\Debug\Two-Day Package Shipping.exe.config
+E:\uni\enero-mayo 2020\Visual Computing\Two-Day Package Shipping\Two-Day Package Shipping\bin\Debug\Two-Day Package Shipping.exe
+E:\uni\enero-mayo 2020\Visual Computing\Two-Day Package Shipping\Two-Day Package Shipping\bin\Debug\Two-Day Package Shipping.pdb
+E:\uni\enero-mayo 2020\Visual Computing\Two-Day Package Shipping\Two-Day Package Shipping\bin\Debug\Two-Day Package Shipping.xml
+E:\uni\enero-mayo 2020\Visual Computing\Two-Day Package Shipping\Two-Day Package Shipping\obj\Debug\Two-Day Package Shipping.vbprojResolveAssemblyReference.cache
+E:\uni\enero-mayo 2020\Visual Computing\Two-Day Package Shipping\Two-Day Package Shipping\obj\Debug\Two_Day_Package_Shipping.Form1.resources
+E:\uni\enero-mayo 2020\Visual Computing\Two-Day Package Shipping\Two-Day Package Shipping\obj\Debug\Two_Day_Package_Shipping.Resources.resources
+E:\uni\enero-mayo 2020\Visual Computing\Two-Day Package Shipping\Two-Day Package Shipping\obj\Debug\Two-Day Package Shipping.vbproj.GenerateResource.Cache
+E:\uni\enero-mayo 2020\Visual Computing\Two-Day Package Shipping\Two-Day Package Shipping\obj\Debug\Two-Day Package Shipping.vbproj.CoreCompileInputs.cache
+E:\uni\enero-mayo 2020\Visual Computing\Two-Day Package Shipping\Two-Day Package Shipping\obj\Debug\Two-Day Package Shipping.exe
+E:\uni\enero-mayo 2020\Visual Computing\Two-Day Package Shipping\Two-Day Package Shipping\obj\Debug\Two-Day Package Shipping.xml
+E:\uni\enero-mayo 2020\Visual Computing\Two-Day Package Shipping\Two-Day Package Shipping\obj\Debug\Two-Day Package Shipping.pdb
+F:\uni\enero-mayo 2020\Visual Computing\Two-Day Package Shipping\Two-Day Package Shipping\bin\Debug\Two-Day Package Shipping.exe.config
+F:\uni\enero-mayo 2020\Visual Computing\Two-Day Package Shipping\Two-Day Package Shipping\bin\Debug\Two-Day Package Shipping.exe
+F:\uni\enero-mayo 2020\Visual Computing\Two-Day Package Shipping\Two-Day Package Shipping\bin\Debug\Two-Day Package Shipping.pdb
+F:\uni\enero-mayo 2020\Visual Computing\Two-Day Package Shipping\Two-Day Package Shipping\bin\Debug\Two-Day Package Shipping.xml
+F:\uni\enero-mayo 2020\Visual Computing\Two-Day Package Shipping\Two-Day Package Shipping\obj\Debug\Two-Day Package Shipping.vbprojAssemblyReference.cache
+F:\uni\enero-mayo 2020\Visual Computing\Two-Day Package Shipping\Two-Day Package Shipping\obj\Debug\Two_Day_Package_Shipping.Form1.resources
+F:\uni\enero-mayo 2020\Visual Computing\Two-Day Package Shipping\Two-Day Package Shipping\obj\Debug\Two_Day_Package_Shipping.Resources.resources
+F:\uni\enero-mayo 2020\Visual Computing\Two-Day Package Shipping\Two-Day Package Shipping\obj\Debug\Two-Day Package Shipping.vbproj.GenerateResource.cache
+F:\uni\enero-mayo 2020\Visual Computing\Two-Day Package Shipping\Two-Day Package Shipping\obj\Debug\Two-Day Package Shipping.vbproj.CoreCompileInputs.cache
+F:\uni\enero-mayo 2020\Visual Computing\Two-Day Package Shipping\Two-Day Package Shipping\obj\Debug\Two-Day Package Shipping.exe
+F:\uni\enero-mayo 2020\Visual Computing\Two-Day Package Shipping\Two-Day Package Shipping\obj\Debug\Two-Day Package Shipping.xml
+F:\uni\enero-mayo 2020\Visual Computing\Two-Day Package Shipping\Two-Day Package Shipping\obj\Debug\Two-Day Package Shipping.pdb
+C:\Users\Edgar Gonzalez\Desktop\Portafolio\Computacion Visual\Asignaciones\Two-Day Package Shipping\Two-Day Package Shipping\bin\Debug\Two-Day Package Shipping.exe.config
+C:\Users\Edgar Gonzalez\Desktop\Portafolio\Computacion Visual\Asignaciones\Two-Day Package Shipping\Two-Day Package Shipping\bin\Debug\Two-Day Package Shipping.exe
+C:\Users\Edgar Gonzalez\Desktop\Portafolio\Computacion Visual\Asignaciones\Two-Day Package Shipping\Two-Day Package Shipping\bin\Debug\Two-Day Package Shipping.pdb
+C:\Users\Edgar Gonzalez\Desktop\Portafolio\Computacion Visual\Asignaciones\Two-Day Package Shipping\Two-Day Package Shipping\bin\Debug\Two-Day Package Shipping.xml
+C:\Users\Edgar Gonzalez\Desktop\Portafolio\Computacion Visual\Asignaciones\Two-Day Package Shipping\Two-Day Package Shipping\obj\Debug\Two-Day Package Shipping.vbprojAssemblyReference.cache
+C:\Users\Edgar Gonzalez\Desktop\Portafolio\Computacion Visual\Asignaciones\Two-Day Package Shipping\Two-Day Package Shipping\obj\Debug\Two_Day_Package_Shipping.Form1.resources
+C:\Users\Edgar Gonzalez\Desktop\Portafolio\Computacion Visual\Asignaciones\Two-Day Package Shipping\Two-Day Package Shipping\obj\Debug\Two_Day_Package_Shipping.Resources.resources
+C:\Users\Edgar Gonzalez\Desktop\Portafolio\Computacion Visual\Asignaciones\Two-Day Package Shipping\Two-Day Package Shipping\obj\Debug\Two-Day Package Shipping.vbproj.GenerateResource.cache
+C:\Users\Edgar Gonzalez\Desktop\Portafolio\Computacion Visual\Asignaciones\Two-Day Package Shipping\Two-Day Package Shipping\obj\Debug\Two-Day Package Shipping.vbproj.CoreCompileInputs.cache
+C:\Users\Edgar Gonzalez\Desktop\Portafolio\Computacion Visual\Asignaciones\Two-Day Package Shipping\Two-Day Package Shipping\obj\Debug\Two-Day Package Shipping.exe
+C:\Users\Edgar Gonzalez\Desktop\Portafolio\Computacion Visual\Asignaciones\Two-Day Package Shipping\Two-Day Package Shipping\obj\Debug\Two-Day Package Shipping.xml
+C:\Users\Edgar Gonzalez\Desktop\Portafolio\Computacion Visual\Asignaciones\Two-Day Package Shipping\Two-Day Package Shipping\obj\Debug\Two-Day Package Shipping.pdb

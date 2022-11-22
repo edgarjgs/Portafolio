@@ -1,0 +1,26 @@
+G:\uni\enero-mayo 2020\Visual Computing\asig\Ocean Tours\Ocean Tours\bin\Debug\Ocean Tours.exe.config
+G:\uni\enero-mayo 2020\Visual Computing\asig\Ocean Tours\Ocean Tours\bin\Debug\Ocean Tours.exe
+G:\uni\enero-mayo 2020\Visual Computing\asig\Ocean Tours\Ocean Tours\bin\Debug\Ocean Tours.pdb
+G:\uni\enero-mayo 2020\Visual Computing\asig\Ocean Tours\Ocean Tours\bin\Debug\Ocean Tours.xml
+G:\uni\enero-mayo 2020\Visual Computing\asig\Ocean Tours\Ocean Tours\obj\Debug\Ocean Tours.vbprojAssemblyReference.cache
+G:\uni\enero-mayo 2020\Visual Computing\asig\Ocean Tours\Ocean Tours\obj\Debug\Ocean_Tours.Form1.resources
+G:\uni\enero-mayo 2020\Visual Computing\asig\Ocean Tours\Ocean Tours\obj\Debug\Ocean_Tours.Resources.resources
+G:\uni\enero-mayo 2020\Visual Computing\asig\Ocean Tours\Ocean Tours\obj\Debug\Ocean Tours.vbproj.GenerateResource.cache
+G:\uni\enero-mayo 2020\Visual Computing\asig\Ocean Tours\Ocean Tours\obj\Debug\Ocean Tours.vbproj.CoreCompileInputs.cache
+G:\uni\enero-mayo 2020\Visual Computing\asig\Ocean Tours\Ocean Tours\obj\Debug\Ocean Tours.exe
+G:\uni\enero-mayo 2020\Visual Computing\asig\Ocean Tours\Ocean Tours\obj\Debug\Ocean Tours.xml
+G:\uni\enero-mayo 2020\Visual Computing\asig\Ocean Tours\Ocean Tours\obj\Debug\Ocean Tours.pdb
+G:\uni\enero-mayo 2020\Visual Computing\asig\Ocean Tours\Ocean Tours\obj\Debug\Ocean_Tours.SplashScreen1.resources
+C:\Users\Edgar Gonzalez\Desktop\Portafolio\Computacion Visual\Asignaciones\Ocean Tours\Ocean Tours\bin\Debug\Ocean Tours.exe.config
+C:\Users\Edgar Gonzalez\Desktop\Portafolio\Computacion Visual\Asignaciones\Ocean Tours\Ocean Tours\bin\Debug\Ocean Tours.exe
+C:\Users\Edgar Gonzalez\Desktop\Portafolio\Computacion Visual\Asignaciones\Ocean Tours\Ocean Tours\bin\Debug\Ocean Tours.pdb
+C:\Users\Edgar Gonzalez\Desktop\Portafolio\Computacion Visual\Asignaciones\Ocean Tours\Ocean Tours\bin\Debug\Ocean Tours.xml
+C:\Users\Edgar Gonzalez\Desktop\Portafolio\Computacion Visual\Asignaciones\Ocean Tours\Ocean Tours\obj\Debug\Ocean Tours.vbprojAssemblyReference.cache
+C:\Users\Edgar Gonzalez\Desktop\Portafolio\Computacion Visual\Asignaciones\Ocean Tours\Ocean Tours\obj\Debug\Ocean_Tours.Form1.resources
+C:\Users\Edgar Gonzalez\Desktop\Portafolio\Computacion Visual\Asignaciones\Ocean Tours\Ocean Tours\obj\Debug\Ocean_Tours.Resources.resources
+C:\Users\Edgar Gonzalez\Desktop\Portafolio\Computacion Visual\Asignaciones\Ocean Tours\Ocean Tours\obj\Debug\Ocean_Tours.SplashScreen1.resources
+C:\Users\Edgar Gonzalez\Desktop\Portafolio\Computacion Visual\Asignaciones\Ocean Tours\Ocean Tours\obj\Debug\Ocean Tours.vbproj.GenerateResource.cache
+C:\Users\Edgar Gonzalez\Desktop\Portafolio\Computacion Visual\Asignaciones\Ocean Tours\Ocean Tours\obj\Debug\Ocean Tours.vbproj.CoreCompileInputs.cache
+C:\Users\Edgar Gonzalez\Desktop\Portafolio\Computacion Visual\Asignaciones\Ocean Tours\Ocean Tours\obj\Debug\Ocean Tours.exe
+C:\Users\Edgar Gonzalez\Desktop\Portafolio\Computacion Visual\Asignaciones\Ocean Tours\Ocean Tours\obj\Debug\Ocean Tours.xml
+C:\Users\Edgar Gonzalez\Desktop\Portafolio\Computacion Visual\Asignaciones\Ocean Tours\Ocean Tours\obj\Debug\Ocean Tours.pdb
