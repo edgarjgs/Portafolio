@@ -1,0 +1,36 @@
+C:\Users\egonzalez6279\source\repos\Radar speed\Radar speed\bin\Debug\Radar speed.exe.config
+C:\Users\egonzalez6279\source\repos\Radar speed\Radar speed\bin\Debug\Radar speed.exe
+C:\Users\egonzalez6279\source\repos\Radar speed\Radar speed\bin\Debug\Radar speed.pdb
+C:\Users\egonzalez6279\source\repos\Radar speed\Radar speed\bin\Debug\Radar speed.xml
+C:\Users\egonzalez6279\source\repos\Radar speed\Radar speed\obj\Debug\Radar speed.vbprojResolveAssemblyReference.cache
+C:\Users\egonzalez6279\source\repos\Radar speed\Radar speed\obj\Debug\Radar_speed.Form1.resources
+C:\Users\egonzalez6279\source\repos\Radar speed\Radar speed\obj\Debug\Radar_speed.Resources.resources
+C:\Users\egonzalez6279\source\repos\Radar speed\Radar speed\obj\Debug\Radar speed.vbproj.GenerateResource.Cache
+C:\Users\egonzalez6279\source\repos\Radar speed\Radar speed\obj\Debug\Radar speed.vbproj.CoreCompileInputs.cache
+C:\Users\egonzalez6279\source\repos\Radar speed\Radar speed\obj\Debug\Radar speed.exe
+C:\Users\egonzalez6279\source\repos\Radar speed\Radar speed\obj\Debug\Radar speed.xml
+C:\Users\egonzalez6279\source\repos\Radar speed\Radar speed\obj\Debug\Radar speed.pdb
+E:\uni\enero-mayo 2020\Visual Computing\Radar speed\Radar speed\bin\Debug\Radar speed.exe.config
+E:\uni\enero-mayo 2020\Visual Computing\Radar speed\Radar speed\bin\Debug\Radar speed.exe
+E:\uni\enero-mayo 2020\Visual Computing\Radar speed\Radar speed\bin\Debug\Radar speed.pdb
+E:\uni\enero-mayo 2020\Visual Computing\Radar speed\Radar speed\bin\Debug\Radar speed.xml
+E:\uni\enero-mayo 2020\Visual Computing\Radar speed\Radar speed\obj\Debug\Radar speed.vbprojResolveAssemblyReference.cache
+E:\uni\enero-mayo 2020\Visual Computing\Radar speed\Radar speed\obj\Debug\Radar_speed.Form1.resources
+E:\uni\enero-mayo 2020\Visual Computing\Radar speed\Radar speed\obj\Debug\Radar_speed.Resources.resources
+E:\uni\enero-mayo 2020\Visual Computing\Radar speed\Radar speed\obj\Debug\Radar speed.vbproj.GenerateResource.Cache
+E:\uni\enero-mayo 2020\Visual Computing\Radar speed\Radar speed\obj\Debug\Radar speed.vbproj.CoreCompileInputs.cache
+E:\uni\enero-mayo 2020\Visual Computing\Radar speed\Radar speed\obj\Debug\Radar speed.exe
+E:\uni\enero-mayo 2020\Visual Computing\Radar speed\Radar speed\obj\Debug\Radar speed.xml
+E:\uni\enero-mayo 2020\Visual Computing\Radar speed\Radar speed\obj\Debug\Radar speed.pdb
+C:\Users\Edgar Gonzalez\Desktop\Portafolio\Computacion Visual\Practicas\Radar speed\Radar speed\bin\Debug\Radar speed.exe.config
+C:\Users\Edgar Gonzalez\Desktop\Portafolio\Computacion Visual\Practicas\Radar speed\Radar speed\bin\Debug\Radar speed.exe
+C:\Users\Edgar Gonzalez\Desktop\Portafolio\Computacion Visual\Practicas\Radar speed\Radar speed\bin\Debug\Radar speed.pdb
+C:\Users\Edgar Gonzalez\Desktop\Portafolio\Computacion Visual\Practicas\Radar speed\Radar speed\bin\Debug\Radar speed.xml
+C:\Users\Edgar Gonzalez\Desktop\Portafolio\Computacion Visual\Practicas\Radar speed\Radar speed\obj\Debug\Radar speed.vbprojAssemblyReference.cache
+C:\Users\Edgar Gonzalez\Desktop\Portafolio\Computacion Visual\Practicas\Radar speed\Radar speed\obj\Debug\Radar_speed.Form1.resources
+C:\Users\Edgar Gonzalez\Desktop\Portafolio\Computacion Visual\Practicas\Radar speed\Radar speed\obj\Debug\Radar_speed.Resources.resources
+C:\Users\Edgar Gonzalez\Desktop\Portafolio\Computacion Visual\Practicas\Radar speed\Radar speed\obj\Debug\Radar speed.vbproj.GenerateResource.cache
+C:\Users\Edgar Gonzalez\Desktop\Portafolio\Computacion Visual\Practicas\Radar speed\Radar speed\obj\Debug\Radar speed.vbproj.CoreCompileInputs.cache
+C:\Users\Edgar Gonzalez\Desktop\Portafolio\Computacion Visual\Practicas\Radar speed\Radar speed\obj\Debug\Radar speed.exe
+C:\Users\Edgar Gonzalez\Desktop\Portafolio\Computacion Visual\Practicas\Radar speed\Radar speed\obj\Debug\Radar speed.xml
+C:\Users\Edgar Gonzalez\Desktop\Portafolio\Computacion Visual\Practicas\Radar speed\Radar speed\obj\Debug\Radar speed.pdb

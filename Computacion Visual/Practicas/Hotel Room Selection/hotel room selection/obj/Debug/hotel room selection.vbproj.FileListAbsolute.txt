@@ -1,0 +1,36 @@
+E:\uni\enero-mayo 2020\Visual Computing\hotel room selection\hotel room selection\bin\Debug\hotel room selection.exe.config
+E:\uni\enero-mayo 2020\Visual Computing\hotel room selection\hotel room selection\bin\Debug\hotel room selection.exe
+E:\uni\enero-mayo 2020\Visual Computing\hotel room selection\hotel room selection\bin\Debug\hotel room selection.pdb
+E:\uni\enero-mayo 2020\Visual Computing\hotel room selection\hotel room selection\bin\Debug\hotel room selection.xml
+E:\uni\enero-mayo 2020\Visual Computing\hotel room selection\hotel room selection\obj\Debug\hotel room selection.vbprojResolveAssemblyReference.cache
+E:\uni\enero-mayo 2020\Visual Computing\hotel room selection\hotel room selection\obj\Debug\hotel_room_selection.Resources.resources
+E:\uni\enero-mayo 2020\Visual Computing\hotel room selection\hotel room selection\obj\Debug\hotel room selection.vbproj.GenerateResource.Cache
+E:\uni\enero-mayo 2020\Visual Computing\hotel room selection\hotel room selection\obj\Debug\hotel room selection.vbproj.CoreCompileInputs.cache
+E:\uni\enero-mayo 2020\Visual Computing\hotel room selection\hotel room selection\obj\Debug\hotel room selection.exe
+E:\uni\enero-mayo 2020\Visual Computing\hotel room selection\hotel room selection\obj\Debug\hotel room selection.xml
+E:\uni\enero-mayo 2020\Visual Computing\hotel room selection\hotel room selection\obj\Debug\hotel room selection.pdb
+E:\uni\enero-mayo 2020\Visual Computing\hotel room selection\hotel room selection\obj\Debug\hotel_room_selection.Form1.resources
+F:\uni\enero-mayo 2020\Visual Computing\hotel room selection\hotel room selection\bin\Debug\hotel room selection.exe.config
+F:\uni\enero-mayo 2020\Visual Computing\hotel room selection\hotel room selection\bin\Debug\hotel room selection.exe
+F:\uni\enero-mayo 2020\Visual Computing\hotel room selection\hotel room selection\bin\Debug\hotel room selection.pdb
+F:\uni\enero-mayo 2020\Visual Computing\hotel room selection\hotel room selection\bin\Debug\hotel room selection.xml
+F:\uni\enero-mayo 2020\Visual Computing\hotel room selection\hotel room selection\obj\Debug\hotel room selection.vbprojAssemblyReference.cache
+F:\uni\enero-mayo 2020\Visual Computing\hotel room selection\hotel room selection\obj\Debug\hotel_room_selection.Form1.resources
+F:\uni\enero-mayo 2020\Visual Computing\hotel room selection\hotel room selection\obj\Debug\hotel_room_selection.Resources.resources
+F:\uni\enero-mayo 2020\Visual Computing\hotel room selection\hotel room selection\obj\Debug\hotel room selection.vbproj.GenerateResource.cache
+F:\uni\enero-mayo 2020\Visual Computing\hotel room selection\hotel room selection\obj\Debug\hotel room selection.vbproj.CoreCompileInputs.cache
+F:\uni\enero-mayo 2020\Visual Computing\hotel room selection\hotel room selection\obj\Debug\hotel room selection.exe
+F:\uni\enero-mayo 2020\Visual Computing\hotel room selection\hotel room selection\obj\Debug\hotel room selection.xml
+F:\uni\enero-mayo 2020\Visual Computing\hotel room selection\hotel room selection\obj\Debug\hotel room selection.pdb
+C:\Users\Edgar Gonzalez\Desktop\Portafolio\Computacion Visual\Practicas\hotel room selection\hotel room selection\bin\Debug\hotel room selection.exe.config
+C:\Users\Edgar Gonzalez\Desktop\Portafolio\Computacion Visual\Practicas\hotel room selection\hotel room selection\bin\Debug\hotel room selection.exe
+C:\Users\Edgar Gonzalez\Desktop\Portafolio\Computacion Visual\Practicas\hotel room selection\hotel room selection\bin\Debug\hotel room selection.pdb
+C:\Users\Edgar Gonzalez\Desktop\Portafolio\Computacion Visual\Practicas\hotel room selection\hotel room selection\bin\Debug\hotel room selection.xml
+C:\Users\Edgar Gonzalez\Desktop\Portafolio\Computacion Visual\Practicas\hotel room selection\hotel room selection\obj\Debug\hotel room selection.vbprojAssemblyReference.cache
+C:\Users\Edgar Gonzalez\Desktop\Portafolio\Computacion Visual\Practicas\hotel room selection\hotel room selection\obj\Debug\hotel_room_selection.Form1.resources
+C:\Users\Edgar Gonzalez\Desktop\Portafolio\Computacion Visual\Practicas\hotel room selection\hotel room selection\obj\Debug\hotel_room_selection.Resources.resources
+C:\Users\Edgar Gonzalez\Desktop\Portafolio\Computacion Visual\Practicas\hotel room selection\hotel room selection\obj\Debug\hotel room selection.vbproj.GenerateResource.cache
+C:\Users\Edgar Gonzalez\Desktop\Portafolio\Computacion Visual\Practicas\hotel room selection\hotel room selection\obj\Debug\hotel room selection.vbproj.CoreCompileInputs.cache
+C:\Users\Edgar Gonzalez\Desktop\Portafolio\Computacion Visual\Practicas\hotel room selection\hotel room selection\obj\Debug\hotel room selection.exe
+C:\Users\Edgar Gonzalez\Desktop\Portafolio\Computacion Visual\Practicas\hotel room selection\hotel room selection\obj\Debug\hotel room selection.xml
+C:\Users\Edgar Gonzalez\Desktop\Portafolio\Computacion Visual\Practicas\hotel room selection\hotel room selection\obj\Debug\hotel room selection.pdb
