@@ -1,0 +1,36 @@
+C:\Users\Edgar Gonzalez\Desktop\download music\download music\obj\Debug\download music.vbprojAssemblyReference.cache
+C:\Users\Edgar Gonzalez\Desktop\download music\download music\obj\Debug\download_music.Form1.resources
+C:\Users\Edgar Gonzalez\Desktop\download music\download music\obj\Debug\download_music.Resources.resources
+C:\Users\Edgar Gonzalez\Desktop\download music\download music\obj\Debug\download music.vbproj.GenerateResource.cache
+C:\Users\Edgar Gonzalez\Desktop\download music\download music\obj\Debug\download music.vbproj.CoreCompileInputs.cache
+C:\Users\Edgar Gonzalez\Desktop\download music\download music\bin\Debug\download music.exe.config
+C:\Users\Edgar Gonzalez\Desktop\download music\download music\bin\Debug\download music.exe
+C:\Users\Edgar Gonzalez\Desktop\download music\download music\bin\Debug\download music.pdb
+C:\Users\Edgar Gonzalez\Desktop\download music\download music\bin\Debug\download music.xml
+C:\Users\Edgar Gonzalez\Desktop\download music\download music\obj\Debug\download music.exe
+C:\Users\Edgar Gonzalez\Desktop\download music\download music\obj\Debug\download music.xml
+C:\Users\Edgar Gonzalez\Desktop\download music\download music\obj\Debug\download music.pdb
+F:\uni\enero-mayo 2020\Visual Computing\download music\download music\bin\Debug\download music.exe.config
+F:\uni\enero-mayo 2020\Visual Computing\download music\download music\bin\Debug\download music.exe
+F:\uni\enero-mayo 2020\Visual Computing\download music\download music\bin\Debug\download music.pdb
+F:\uni\enero-mayo 2020\Visual Computing\download music\download music\bin\Debug\download music.xml
+F:\uni\enero-mayo 2020\Visual Computing\download music\download music\obj\Debug\download music.vbprojAssemblyReference.cache
+F:\uni\enero-mayo 2020\Visual Computing\download music\download music\obj\Debug\download_music.Form1.resources
+F:\uni\enero-mayo 2020\Visual Computing\download music\download music\obj\Debug\download_music.Resources.resources
+F:\uni\enero-mayo 2020\Visual Computing\download music\download music\obj\Debug\download music.vbproj.GenerateResource.cache
+F:\uni\enero-mayo 2020\Visual Computing\download music\download music\obj\Debug\download music.vbproj.CoreCompileInputs.cache
+F:\uni\enero-mayo 2020\Visual Computing\download music\download music\obj\Debug\download music.exe
+F:\uni\enero-mayo 2020\Visual Computing\download music\download music\obj\Debug\download music.xml
+F:\uni\enero-mayo 2020\Visual Computing\download music\download music\obj\Debug\download music.pdb
+C:\Users\Edgar Gonzalez\Desktop\Portafolio\Computacion Visual\Practicas\download music\download music\bin\Debug\download music.exe.config
+C:\Users\Edgar Gonzalez\Desktop\Portafolio\Computacion Visual\Practicas\download music\download music\bin\Debug\download music.exe
+C:\Users\Edgar Gonzalez\Desktop\Portafolio\Computacion Visual\Practicas\download music\download music\bin\Debug\download music.pdb
+C:\Users\Edgar Gonzalez\Desktop\Portafolio\Computacion Visual\Practicas\download music\download music\bin\Debug\download music.xml
+C:\Users\Edgar Gonzalez\Desktop\Portafolio\Computacion Visual\Practicas\download music\download music\obj\Debug\download music.vbprojAssemblyReference.cache
+C:\Users\Edgar Gonzalez\Desktop\Portafolio\Computacion Visual\Practicas\download music\download music\obj\Debug\download_music.Form1.resources
+C:\Users\Edgar Gonzalez\Desktop\Portafolio\Computacion Visual\Practicas\download music\download music\obj\Debug\download_music.Resources.resources
+C:\Users\Edgar Gonzalez\Desktop\Portafolio\Computacion Visual\Practicas\download music\download music\obj\Debug\download music.vbproj.GenerateResource.cache
+C:\Users\Edgar Gonzalez\Desktop\Portafolio\Computacion Visual\Practicas\download music\download music\obj\Debug\download music.vbproj.CoreCompileInputs.cache
+C:\Users\Edgar Gonzalez\Desktop\Portafolio\Computacion Visual\Practicas\download music\download music\obj\Debug\download music.exe
+C:\Users\Edgar Gonzalez\Desktop\Portafolio\Computacion Visual\Practicas\download music\download music\obj\Debug\download music.xml
+C:\Users\Edgar Gonzalez\Desktop\Portafolio\Computacion Visual\Practicas\download music\download music\obj\Debug\download music.pdb

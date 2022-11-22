@@ -1,0 +1,12 @@
+F:\uni\enero-mayo 2020\Visual Computing\download music\download music\bin\Release\download music.exe.config
+F:\uni\enero-mayo 2020\Visual Computing\download music\download music\bin\Release\download music.exe
+F:\uni\enero-mayo 2020\Visual Computing\download music\download music\bin\Release\download music.pdb
+F:\uni\enero-mayo 2020\Visual Computing\download music\download music\bin\Release\download music.xml
+F:\uni\enero-mayo 2020\Visual Computing\download music\download music\obj\Release\download music.vbprojAssemblyReference.cache
+F:\uni\enero-mayo 2020\Visual Computing\download music\download music\obj\Release\download_music.Form1.resources
+F:\uni\enero-mayo 2020\Visual Computing\download music\download music\obj\Release\download_music.Resources.resources
+F:\uni\enero-mayo 2020\Visual Computing\download music\download music\obj\Release\download music.vbproj.GenerateResource.cache
+F:\uni\enero-mayo 2020\Visual Computing\download music\download music\obj\Release\download music.vbproj.CoreCompileInputs.cache
+F:\uni\enero-mayo 2020\Visual Computing\download music\download music\obj\Release\download music.exe
+F:\uni\enero-mayo 2020\Visual Computing\download music\download music\obj\Release\download music.xml
+F:\uni\enero-mayo 2020\Visual Computing\download music\download music\obj\Release\download music.pdb
