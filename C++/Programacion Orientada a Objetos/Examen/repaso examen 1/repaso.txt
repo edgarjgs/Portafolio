@@ -1,0 +1,128 @@
+===========================================================================================
+programa 1	|
+-----------------
+
+===========================
+output:		|
+-----------------
+
+i'm the constructor
+1
+i'm the constructor a+b
+1470
+
+===========================
+memorias:	|	
+-----------------
+
+int: count, x, y;
+
+(int a, int b)
+
+===========================
+class:		|
+-----------------
+
+counter 
+	counter()
+	counter(int a, int b)
+	void inc_count()
+	void get_count()
+void main(void)
+
+====================================================================================
+programa 2	|
+-----------------
+
+===========================
+output:		|
+-----------------
+
+200 220 500
+25 346 220
+
+===========================
+memorias:	|
+-----------------
+
+int a, b, c;
+
+(int d, int e, int f)
+
+===========================
+class:		|
+-----------------
+
+class example
+	example();
+	example(int d, int e, int f);
+	void show_variables();
+void main(void)
+
+====================================================================================
+programa 3	|
+-----------------
+
+===========================
+output:		|
+-----------------
+
+Su balance es 1000
+No hay fondos disponibles
+Su balance actual es 1000
+Su balance es 1000
+Retiro de 400
+Nuevo balance = 600
+Su balance es 1100
+Su balance es 5600
+Su balance es 300
+
+===========================
+memorias:	|
+-----------------
+
+double balance;
+(double a)
+
+
+===========================
+class:		|
+-----------------
+
+class cuenta_bancaria
+	void balance_inicial(double a)
+	void deposito(double a)
+	void retiro(double a)
+	void imprime_balance()
+void main(void)
+
+====================================================================================
+programa 4	|
+-----------------
+
+===========================
+output:		|
+-----------------
+
+680
+
+===========================
+memorias:	|
+-----------------
+
+int x, y, z;
+
+(int a, int b, int c)
+
+
+===========================
+class:		|
+-----------------
+
+class sumatres
+	sumatres(int a, int b, int c)
+	int suma()
+void main(void)
+
+===========================
+

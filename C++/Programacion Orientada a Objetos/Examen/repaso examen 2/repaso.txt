@@ -1,0 +1,56 @@
+page 1
+		variables
+objetos		width	heigth
+
+rect		4	5
+
+
+trgl		4	5
+
+
+print:
+20
+10
+
+----------------------------------------------------
+page 2
+		variables
+objetos		k	i	j	m
+
+obj1			2	3
+		6	
+
+obj2			3	4
+		12
+					-1
+print:
+2 3
+6
+3 4
+12
+-1
+----------------------------------------------------
+page 3
+		variables
+objetos		x	y
+
+ob		10	20
+
+
+print:
+10
+20
+
+----------------------------------------------------
+page 4
+		variables
+objetos		a	b
+
+n		3	4
+		
+print:
+7
+
+
+
+

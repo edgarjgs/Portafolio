@@ -1,0 +1,59 @@
+page 1
+		variables	power
+objetos		c	d	a(c)	b(d)
+		50	30	50	30
+		48	26	48	26
+		
+
+
+print:
+1500
+48 26
+
+-------------------------------------
+page 2
+		variables
+objetos		x	y	z	total	promedio
+		maria	20	5	50	25
+		carmelo	10	15	50	25
+
+
+
+print:
+5 Maria 20 50 25
+15 Carmelo 10 50 25
+-------------------------------------
+page 3
+		variables	f
+objetos		x		a	b
+		1		1	
+		2		1	5
+				2	
+		3		2	6
+				3	
+		4		3	7
+
+print:
+1 
+5 
+2 
+12 
+3 
+21 
+ 
+-------------------------------------
+page 4
+		variables
+objetos
+		i	j
+ob1		10	20.0		
+
+ob2		40	50
+
+
+
+print:
+
+20 40
+80 100
+ 

@@ -1,0 +1,27 @@
+
+#include "stdafx.h"
+#include <iostream>
+
+using namespace std;
+
+class constructor {
+public: 
+	constructor();
+
+
+};
+constructor::constructor()
+{
+	cout << "txt" << endl;
+
+}
+
+
+int main()
+{
+	constructor object;
+	system("pause");
+
+    return 0;
+}
+

@@ -1,0 +1,98 @@
+objetos				variables
+
+				count x  y
+a				0
+				1
+
+b				counter
+				a    b
+				300  1170
+				count x y
+
+
+imprime:
+
+im the coustructor
+1
+im the constructor a+b
+1470
+
+----------------------------------
+
+objetos				variables
+					
+				a b c
+
+obj1				200 220 500
+
+obj2				example
+				d   e   f
+				25  346 220
+				a   b   c
+				25  346 220
+
+imprime:
+200 220 500
+25 346 220
+-------------------------------------------
+
+objetos				variables
+
+				balance
+				1000
+				600
+				1100
+				5600
+
+				retiro
+				a
+				1500
+				400
+
+				deposito
+				a
+				500
+				4500
+
+e01				a
+				1000
+				
+
+
+e02				a
+				300
+
+imprime:
+
+Su balance es 1000
+No hay fondos disponiblis 
+Su balance actual es 1000
+Su balance es 1000
+
+Retiro de 400
+
+Nuevo balance= 600
+Su balance es 1100
+su balace es 5600
+su balance es 300
+
+-------------------------------------------------
+
+objeto				variables
+				x   y   z
+				150 210 320
+
+				sumatres
+
+				a   b   c
+				150 210 320
+
+imprime:
+
+680
+
+
+
+
+
+				
